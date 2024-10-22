@@ -1,4 +1,4 @@
-# Modified for Robots under Airlab Monoco, scrubber
+# Modified for Robots under Airlab Monoco, scrubbers test*
 # Arduino_Constrained_MPC_Library
 This is a compact **sub-millisecond** Constrained (linear) Model Predictive Control (MPC) library for Teensy4.0/Arduino system (or real time embedded system in general).
 - It's not using Eigen (small source code - more simple to understand).
